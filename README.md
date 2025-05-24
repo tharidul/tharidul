@@ -1,67 +1,63 @@
-<div align="center">
-  <h1>
-    Hi 👋, I'm <span style="color:#ED8B00; animation: glow 2s infinite;">Tharidu L. Rupasingha</span>
-  </h1>
-  <p>A passionate Full-Stack Developer from Sri Lanka 🇱🇰 — building apps that solve real-world problems.</p>
-</div>
+<h1 align="center">Hi there, I'm Tharidul 👋</h1>
 
-<div align="center">
-  <p><b>💻 Java | React | Android | PHP | SQL</b></p>
-  <p><b>📱 Working on smart home devices, IoT projects, and full-stack mobile/web apps.</b></p>
-</div>
-
-<div align="center">
-  <blockquote>
-    "I hear and I forget. I see and I remember. I do and I understand." — Confucius
-  </blockquote>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&width=435&lines=Welcome+to+my+GitHub+profile!;I+Love+Coding+and+Learning;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
 
 ---
 
-### ⚙️ Languages, Frameworks & Tools:
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/ESP32-999999?style=for-the-badge" alt="ESP32">
-</div>
+### 🌟 About Me
+- 🔭 I’m currently working on **exciting projects in web development and AI**.
+- 🌱 I’m always learning new technologies and improving my skills.
+- 💬 Ask me about **JavaScript, React, Python, or anything tech-related!**
+- 📫 How to reach me: Check out my social links below 👇
 
 ---
 
-### 📱 Recent Projects
-<div>
-  <ul>
-    <li><b>HandyHub:</b> Android + Firebase app to connect service providers with customers.</li>
-    <li><b>Smart Plant Watering System:</b> ESP32 + Android app + Soil Sensors + Pump.</li>
-    <li><b>Smart Home IoT:</b> Power monitoring and appliance control using ESP32 + mobile app.</li>
-    <li><b>Note App:</b> Simple offline note-taking app in Java.</li>
-  </ul>
-</div>
+### 🚀 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharidul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@tharindulakmal5593" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.hackerrank.com/profile/tharindulakmal51" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+</p>
 
 ---
 
-### 📫 Connect with me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/tharidul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@tharindulakmal5593"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.hackerrank.com/profile/tharindulakmal51"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
-</div>
+### 🛠️ Technologies & Tools
+- 💻 **Languages**: JavaScript, Python, C++, Java
+- 🌐 **Frontend**: React, HTML, CSS, TailwindCSS
+- ⚙️ **Backend**: Node.js, Express.js, Django
+- 🛢️ **Databases**: MongoDB, PostgreSQL, MySQL
+- ☁️ **Cloud**: AWS, Google Cloud
+- 🔧 **Tools**: Git, Docker, Kubernetes, VSCode
 
 ---
 
-<div align="center">
-  <b>Let’s build something awesome.</b>
-</div>
+### 📊 GitHub Stats
 
-<style>
-@keyframes glow {
-  0% { text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 20px #ff8c00; }
-  50% { text-shadow: 0 0 10px #ff4500, 0 0 20px #ff4500, 0 0 30px #ff4500; }
-  100% { text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 20px #ff8c00; }
-}
-</style>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&hide_border=true&theme=radical" alt="Tharidul's GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharidul&theme=radical&hide_border=true" alt="Tharidul's GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+### 🎉 Fun Facts
+- 🎮 I’m an avid gamer and love exploring new games.
+- 📚 I enjoy reading about tech and self-improvement.
+- 🌍 I love connecting with people from different backgrounds.
+
+---
+
+### 🌟 Let's Collaborate
+If you have an interesting project or idea and think we can work together, feel free to reach out to me through any of my social links! Let's innovate and create something amazing! 🚀
