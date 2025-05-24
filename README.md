@@ -1,7 +1,6 @@
 <div align="center">
   <h1>
-    <span>Hi 👋, I'm</span>
-    <span style="color:#ED8B00; animation: glow 2s infinite;">Tharidu L. Rupasingha</span>
+    Hi 👋, I'm <span style="color:#ED8B00; animation: glow 2s infinite;">Tharidu L. Rupasingha</span>
   </h1>
   <p>A passionate Full-Stack Developer from Sri Lanka 🇱🇰 — building apps that solve real-world problems.</p>
 </div>
