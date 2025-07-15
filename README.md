@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tharindulakmal
+# 👋 Hi, I'm Tharidu L. Rupasingha
 
 **Software Engineer | Full Stack Developer | Problem Solver**
 
