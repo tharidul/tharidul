@@ -1,52 +1,80 @@
-<div align="center">
+# Hi there, I'm Tharidul 👋
 
-# 👋 Hi, I'm Tharidu L. Rupasingha
+## About Me
 
-**Software Engineer | Full Stack Developer | Problem Solver**
+I'm a passionate **Full-Stack Developer** with a strong foundation in enterprise-level system development and modern web technologies. My expertise spans from robust backend architectures using Java EE technologies to contemporary frontend frameworks. I specialize in building scalable, real-time systems and have hands-on experience with enterprise applications in critical domains like banking and finance.
 
-Passionate about building scalable applications, clean user experiences, and efficient backends. I specialize in **Java**, **React**, **Android**, **PHP**, and **SQL**. I love contributing to real-world projects and constantly learning new tools and patterns in software architecture.
-
-</div>
-
----
+Currently expanding my skillset with **React** and deepening my **JavaScript** expertise while maintaining proficiency in proven enterprise technologies.
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Backend
+- **Java** (Core, Advanced)
+- **Java EE** (EJB, Servlets, JSP)
+- **JMS** (Java Message Service)
+- **EJB Timer Services**
+- **SQL** & Database Management
+- **PHP**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+### Frontend
+- **React** (Currently Learning)
+- **JavaScript** (Improving)
+- **Bootstrap**
+- **Font Awesome**
+- **HTML/CSS**
+- **Modal Components & UI Design**
 
-### Tools & Platforms
+### Mobile
+- **Android Development**
 
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat-square&logo=android&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Tools & Methodologies
+- **Business Analysis**
+- **Digital Transformation**
+- **Enterprise Architecture**
+- **Real-time & Scheduled Operations**
+
+## 🚀 Key Projects & Experience
+
+### Enterprise Banking Systems
+- Developed enterprise-level banking systems using **EJB** and **JMS**
+- Implemented real-time and scheduled operations with **EJB Timer Services**
+- Built robust, scalable architectures for financial applications
+
+### UI/UX Development
+- Created responsive user interfaces using **Bootstrap** and **Font Awesome**
+- Developed interactive modal components and modern UI features
+- Focus on clean, user-friendly design patterns
+
+### Business Analysis Project
+- Conducted comprehensive digital transformation analysis for SME catering business
+- Applied business analysis methodologies to identify optimization opportunities
+- Delivered actionable insights for technology adoption and process improvement
+
+## 📊 GitHub Stats
+
+![Tharidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&theme=default&hide_border=true)
+
+## 🌱 Currently Learning
+
+- **React.js** - Building modern, component-based user interfaces
+- **Advanced JavaScript** - ES6+, async programming, and modern patterns
+- **Frontend Architecture** - Best practices and design patterns
+
+## 💼 Professional Focus
+
+- **Enterprise Application Development**
+- **Full-Stack Web Development**
+- **System Architecture & Design**
+- **Business Process Optimization**
+- **Digital Transformation Solutions**
+
+## 📫 Let's Connect
+
+- **GitHub**: [@tharidul](https://github.com/tharidul)
+- **Email**: [Contact me through GitHub](https://github.com/tharidul)
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&theme=default&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharidul&theme=default" height="170"/>
-</div>
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharidul/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@tharindulakmal5593)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tharindulakmal51)
-
----
-
-> 💬 *"Always open to collaboration, innovation, and learning. Let’s build something impactful."*
-
+💡 *"Building robust, scalable solutions that bridge enterprise requirements with modern development practices."*
