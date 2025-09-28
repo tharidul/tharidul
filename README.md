@@ -1,70 +1,94 @@
-<div align="center">
+# Tharidu L. Rupasingha
+### Full Stack Developer | Code Architect | Digital Solutions Engineer
 
-# 👋 Tharidul Lakmal
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Enterprise+Java+Expert;React+Enthusiast" alt="Typing SVG" />
-
-</div>
-
----
-
-### 🚀 What I Do
-
-```javascript
-const developer = {
-    backend: ["Java EE", "EJB", "JMS", "PHP", "SQL"],
-    frontend: ["React", "JavaScript", "Bootstrap"],
-    mobile: ["Android"],
-    expertise: "Enterprise Banking Systems",
-    currentlyLearning: "React & Advanced JavaScript"
-};
+```ascii
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  Building scalable applications across the entire technology stack ║
+  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-### 🛠️ Tech Stack
+## 🛠 Technical Arsenal
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### Backend Foundation
+```java
+// My preferred server-side environment
+Spring Boot + Java → Microservices Architecture
+```
 
-<p align="center">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### Frontend Ecosystem  
+```javascript
+const frameworks = ['React', 'Angular'];
+const approach = 'Component-driven development';
+```
 
-**Enterprise**: EJB • JMS • Timer Services • Servlets • JSP  
-**Frontend**: React • JavaScript ES6+ • Bootstrap • Font Awesome  
-**Database**: SQL • Enterprise DB Management  
-**Mobile**: Android Development  
+### Mobile Development
+```kotlin
+// Android native development
+fun buildMobileExperience(): String {
+    return "Native Android applications"
+}
+```
 
-### 💼 Key Experience
+### Data Layer
+```sql
+-- Database design and optimization
+SELECT skills FROM developer_stack 
+WHERE expertise IN ('SQL', 'Firebase', 'Database Design');
+```
 
-🏦 **Banking Systems** - Built enterprise-level systems with EJB & JMS  
-⚡ **Real-time Operations** - Implemented scheduled operations using EJB Timer Services  
-🎨 **UI Development** - Created responsive interfaces with Bootstrap & modals  
-📊 **Business Analysis** - Digital transformation project for SME catering business  
+## 📊 Skill Distribution
 
-### 🌱 Currently Learning
+| Domain | Technologies | Proficiency |
+|--------|-------------|-------------|
+| **Backend** | Java, Spring Boot | ████████████ |
+| **Frontend** | React, Angular | ███████████░ |
+| **Mobile** | Android Development | ██████████░░ |
+| **Database** | SQL, Firebase | ██████████░░ |
+| **Architecture** | Full Stack Design | ████████████ |
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=false&vCenter=true&width=435&lines=⚛️+React+Ecosystem;🚀+Advanced+JavaScript;🏗️+Modern+Frontend+Architecture" alt="Learning SVG" />
+## 🚀 Current Focus Areas
 
-### 📬 Connect
+- **Microservices Architecture** → Scalable backend systems
+- **Real-time Applications** → Firebase integration patterns  
+- **Cross-platform Solutions** → Web + Mobile ecosystems
+- **Performance Optimization** → Database query efficiency
+- **Modern UI/UX** → Component library development
 
-🌐 **Website**: [lkml.live](https://lkml.live)  
-📧 **Email**: tharindulakmal5050@gmail.com  
-💼 **GitHub**: [@tharidul](https://github.com/tharidul)
+## 📡 Network Endpoints
+
+```json
+{
+  "contact": {
+    "website": "https://lkml.live",
+    "email": "tharindulakmal5050@gmail.com",
+    "github": "https://github.com/tharidul"
+  },
+  "status": "Available for collaboration",
+  "response_time": "< 24 hours"
+}
+```
+
+## 💡 Development Philosophy
+
+```
+Code Quality > Feature Quantity
+Scalability > Quick Fixes
+Documentation > Assumptions
+Testing > Hope
+```
+
+## 🔥 Active Development Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-<div align="center">
+```bash
+$ whoami
+tharidu-rupasingha: full-stack developer specializing in robust,
+scalable applications across web and mobile platforms
+```
 
-*"Building enterprise solutions with modern tools"*
-
-<img src="https://komarev.com/ghpvc/?username=tharidul&color=blue&style=flat-square" alt="Profile Views" />
-
-</div>
+**Last Updated:** Dynamic | **Version:** Production Ready
