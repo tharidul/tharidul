@@ -1,259 +1,158 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1a365d,100:2d3748&height=300&section=header&text=Tharidu%20L.%20Rupasingha&fontSize=50&fontColor=64ffda&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Code%20Architect&descAlignY=51&descSize=20&fontColor=8892b0)</div>
+# LKML - Full Stack Developer
 
 <div align="center">
+  <img src="https://lkml.live/images/profile_picture_2.0-512.webp" alt="Tharidu L. Rupasingha" width="200" height="200" style="border-radius: 50%; border: 3px solid #14b8a6;" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=64ffda&size=28&center=true&vCenter=true&width=900&lines=A+passionate+developer+crafting+smart%2C+innovative+solutions;Java%2C+React+and+IoT+specialist;Building+tomorrow's+applications+today;Always+learning%2C+always+growing)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React+%7C+Android+%7C+IoT;bringing+ideas+to+life+through+code.)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <strong>Crafting smart, innovative solutions with modern technologies</strong>
+  </p>
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" /> About Me
+## 🎯 Tech Arsenal
 
-<div align="left">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+
+| **Backend** | **Frontend** | **Mobile** | **Database** | **DevOps** |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | | | |
+
+</div>
+
+## 🚀 Current Focus
 
 ```yaml
-name: "Tharidu L. Rupasingha"
-role: "Full-Stack Developer"
-location: "Sri Lanka"
-passion: "Crafting smart, innovative solutions"
+learning:
+  - "Advanced Spring Security & Microservices"
+  - "React Performance Optimization"
+  - "IoT Edge Computing with ESP32"
+  - "Cloud Architecture Patterns"
 
-current_focus:
-  - Building scalable web applications
-  - Mobile app development
-  - IoT solutions
-  - Database optimization
-
-life_philosophy: "Code with purpose, build with passion"
+building:
+  - "Smart IoT Monitoring Dashboard"
+  - "Multi-tenant SaaS Platform"
+  - "Real-time Analytics System"
+  
+exploring:
+  - "WebAssembly for Performance"
+  - "GraphQL Federation"
+  - "Edge Computing Solutions"
 ```
-
-</div>
-
-<br clear="right"/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" height="25" /> Tech Arsenal
-
-### 🌐 Frontend Web Development
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=64ffda" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-0a192f?style=for-the-badge&logo=angular&logoColor=64ffda" alt="Angular" />
-  <img src="https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=64ffda" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=64ffda" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-0a192f?style=for-the-badge&logo=html5&logoColor=64ffda" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0a192f?style=for-the-badge&logo=css3&logoColor=64ffda" alt="CSS3" />
-</div>
-
-### 🔧 Backend Systems & Architecture
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-0a192f?style=for-the-badge&logo=openjdk&logoColor=64ffda" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0a192f?style=for-the-badge&logo=spring-boot&logoColor=64ffda" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Microservices-0a192f?style=for-the-badge&logo=microgenetics&logoColor=64ffda" alt="Microservices" />
-  <img src="https://img.shields.io/badge/REST_API-0a192f?style=for-the-badge&logo=fastapi&logoColor=64ffda" alt="REST API" />
-</div>
-
-### 📱 Cross-Platform Mobile Apps
-<div align="left">
-  <img src="https://img.shields.io/badge/Android-0a192f?style=for-the-badge&logo=android&logoColor=64ffda" alt="Android" />
-  <img src="https://img.shields.io/badge/Kotlin-0a192f?style=for-the-badge&logo=kotlin&logoColor=64ffda" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/React_Native-0a192f?style=for-the-badge&logo=react&logoColor=64ffda" alt="React Native" />
-</div>
-
-### 🗄️ Smart IoT Solutions
-<div align="left">
-  <img src="https://img.shields.io/badge/Firebase-0a192f?style=for-the-badge&logo=firebase&logoColor=64ffda" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-0a192f?style=for-the-badge&logo=mysql&logoColor=64ffda" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=64ffda" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/IoT-0a192f?style=for-the-badge&logo=internetofthings&logoColor=64ffda" alt="IoT" />
-</div>
-
-### 🛠️ Data & Database Management
-<div align="left">
-  <img src="https://img.shields.io/badge/SQL-0a192f?style=for-the-badge&logo=postgresql&logoColor=64ffda" alt="SQL" />
-  <img src="https://img.shields.io/badge/Database_Design-0a192f?style=for-the-badge&logo=databricks&logoColor=64ffda" alt="Database Design" />
-  <img src="https://img.shields.io/badge/Data_Analytics-0a192f?style=for-the-badge&logo=googleanalytics&logoColor=64ffda" alt="Data Analytics" />
-</div>
-
-## 📊 Development Expertise
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│  🏗️  System Architecture        ████████████████ 95%   │
-│  ☕  Java & Spring Boot         ████████████████ 98%   │
-│  ⚛️  React Development          ███████████████░ 92%   │
-│  🅰️  Angular Framework          ██████████████░░ 88%   │
-│  📱  Mobile Development         █████████████░░░ 85%   │
-│  🗃️  Database Design            ███████████████░ 90%   │
-│  🔥  Firebase & Cloud           ██████████████░░ 87%   │
-│  🌐  API Development            ████████████████ 95%   │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🌐 Frontend Web Development
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="80"/>
-
-Building modern, responsive web applications with React and Angular
-
-**Focus:** User Experience & Performance
-
-</td>
-<td width="33%" align="center">
-
-### 🏗️ Backend Systems & Architecture  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
-
-Designing scalable backend systems using Java Spring Boot and microservices
-
-**Focus:** Scalability & Reliability
-
-</td>
-<td width="33%" align="center">
-
-### 📱 Cross-Platform Mobile Apps
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="80"/>
-
-Creating native Android apps and cross-platform solutions
-
-**Focus:** Native Performance
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🌟 Smart IoT Solutions
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="80"/>
-
-Developing intelligent IoT systems with real-time data processing
-
-**Focus:** Innovation & Automation
-
-</td>
-<td width="33%" align="center">
-
-### 🗄️ Data & Database Management
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" width="80"/>
-
-Optimizing database performance and designing efficient data structures
-
-**Focus:** Performance & Optimization
-
-</td>
-<td width="33%" align="center">
-
-### 🎯 Custom Solutions
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="80"/>
-
-Tailored solutions for unique business requirements
-
-**Focus:** Problem Solving
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&theme=dark&bg_color=0a192f&title_color=64ffda&text_color=8892b0&icon_color=64ffda&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&theme=dark&bg_color=0a192f&title_color=64ffda&text_color=8892b0&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&theme=dark&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=ffffff&border_color=14b8a6&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&theme=dark&bg_color=0d1117&title_color=14b8a6&text_color=ffffff&border_color=14b8a6&hide_border=false" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tharidul&theme=dark&background=0a192f&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakNum=8892b0&sideNums=8892b0&currStreakLabel=64ffda&sideLabels=64ffda&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharidul&theme=dark&background=0d1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=14b8a6&border=14b8a6&hide_border=false" alt="GitHub Streak" />
 </div>
 
-## 🌟 Connect With Me
+## 🏆 Featured Projects
 
 <div align="center">
 
-### Let's Build Something Amazing Together
+### 🎨 [Ceylon Canvas](https://github.com/tharidul/ceylon_canvas) • Art Gallery Platform
+**React • TypeScript • Firebase** | Modern art gallery with secure authentication, real-time updates, and responsive design
 
-<a href="https://lkml.live" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-lkml.live-64ffda?style=for-the-badge&logo=firefox&logoColor=0a192f&labelColor=0a192f" />
-</a>
+### 📱 [HandyHub](https://github.com/tharidul/handyhub) • Blue-collar Marketplace  
+**Android • Java • Firebase** | Marketplace connecting blue-collar workers with clients, featuring job listings and user profiles
 
-<a href="mailto:tharindulakmal5050@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧_Email-tharindulakmal5050@gmail.com-64ffda?style=for-the-badge&logo=gmail&logoColor=0a192f&labelColor=0a192f" />
-</a>
+### 📚 [Ceylon Wisdom Library](https://github.com/tharidul/cwl) • Library Management System
+**Java • Swing • MySQL** | Complete library management system with book tracking and user authentication
 
-<a href="https://github.com/tharidul" target="_blank">
-  <img src="https://img.shields.io/badge/💻_GitHub-@tharidul-64ffda?style=for-the-badge&logo=github&logoColor=0a192f&labelColor=0a192f" />
-</a>
+### 🌐 [LKML Portfolio](https://lkml.live) • Personal Portfolio
+**React • TypeScript • Tailwind** | Modern portfolio with advanced animations, performance optimization, and blog system
 
 </div>
 
-## 💼 Professional Approach
+## 🛠️ Built & Deployed Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://vinci.lkml.live">
+        <img src="https://lkml.live/public/images/tools_img/vinci-ai.png" width="50" height="50" alt="Vinci AI" /><br>
+        <strong>🤖 Vinci AI</strong><br>
+        <sub>AI Assistant</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://imgx.lkml.live">
+        <img src="https://lkml.live/public/images/tools_img/IMG-X.png" width="50" height="50" alt="IMG-X" /><br>
+        <strong>🖼️ IMG-X</strong><br>
+        <sub>Image Processor</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://pdfx.lkml.live">
+        <img src="https://lkml.live/public/images/tools_img/PDF-X.png" width="50" height="50" alt="PDF-X" /><br>
+        <strong>📄 PDF-X</strong><br>
+        <sub>PDF Utilities</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://prompt-engineer.lkml.live">
+        <img src="https://lkml.live/public/images/tools_img/Promot-Engneer.png" width="50" height="50" alt="Prompt Engineer" /><br>
+        <strong>⚡ Prompt Engineer</strong><br>
+        <sub>AI Prompts</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🎯 Expertise Matrix
 
 <div align="center">
 
-| **Philosophy** | **Implementation** |
-|----------------|-------------------|
-| 🎯 **Clean Architecture** | SOLID principles, design patterns |
-| 🧪 **Quality Assurance** | Unit testing, integration testing |
-| 📚 **Documentation** | Clear, comprehensive documentation |
-| 🚀 **Performance** | Optimized code, efficient algorithms |
-| 🔄 **Continuous Learning** | Latest technologies, best practices |
-| 🤝 **Collaboration** | Team-oriented, knowledge sharing |
-
-</div>
-
-## 📊 Development Focus
-
-```text
-Full-Stack Development    ████████████████████████████ 35%
-Backend Architecture      ██████████████████████ 25%
-Mobile Applications       ████████████████ 20%
-Database Optimization     ████████████ 12%
-IoT & Smart Solutions     ████████ 8%
+```
+Full Stack Development    ████████████████████  85%
+Java & Spring Ecosystem   ████████████████████  85%
+Frontend (React/Angular)  ████████████████████  85%
+Mobile Development        ████████████████░░░░  80%
+Database Design & SQL     ████████████████░░░░  80%
+IoT & Embedded Systems    ███████████████░░░░░  75%
 ```
 
-## 🏆 Core Strengths
+</div>
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-```
-🎖️ ════════════════════════════════════════ 🎖️
-
-   ✅ Full-Stack Solution Architecture
-   ✅ Enterprise-Grade Backend Systems  
-   ✅ Modern Frontend User Experiences
-   ✅ Cross-Platform Mobile Applications
-   ✅ Database Performance Optimization
-   ✅ IoT & Smart Technology Integration
-
-════════════════════════════════════════════
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-lkml.live-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://lkml.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tharidul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharidul)
+[![GitHub](https://img.shields.io/badge/GitHub-tharidul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharidul)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tharindulakmal5593)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tharindulakmal51)
+[![Email](https://img.shields.io/badge/Email-contact@lkml.live-14b8a6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lkml.live)
 
 </div>
+
+## 💡 What I Bring
+
+- **🔧 Problem Solver**: Turn complex requirements into elegant, scalable solutions
+- **🚀 Performance Focused**: Optimize every layer from database queries to frontend rendering
+- **🔒 Security Minded**: Implement robust authentication, authorization, and data protection
+- **📱 Cross-Platform**: Build applications that work seamlessly across web, mobile, and IoT
+- **🌱 Continuous Learner**: Stay current with emerging technologies and best practices
 
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharidul&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,50:1a365d,100:0a192f&height=120&section=footer)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tharidul&color=64ffda&style=for-the-badge&label=Profile+Views)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" height="25" /> **Thanks for visiting! Let's build something amazing together** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" height="25" />
-
+<div align="center">
+  <sub>⚡ <strong>Always ready to transform coffee into code and ideas into reality</strong> ⚡</sub>
 </div>
