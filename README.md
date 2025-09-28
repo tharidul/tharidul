@@ -1,7 +1,44 @@
 # LKML - Full Stack Developer
 
 <div align="center">
-  <img src="https://lkml.live/images/profile_picture_2.0-512.webp" alt="Tharidu L. Rupasingha" width="200" height="200" style="border-radius: 50%; border: 3px solid #14b8a6;" />
+  <img src="https://lkml.l## 🛠️ Built & Deployed Tools
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://vinci.lkml.live">
+<img src="https://lkml.live/images/tools_img/vinci-ai.png" width="60" height="60" alt="Vinci AI"/>
+<br><strong>🤖 Vinci AI</strong>
+<br><sub>AI Assistant</sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://imgx.lkml.live">
+<img src="https://lkml.live/images/tools_img/IMG-X.png" width="60" height="60" alt="IMG-X"/>
+<br><strong>🖼️ IMG-X</strong>
+<br><sub>Image Processor</sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://pdfx.lkml.live">
+<img src="https://lkml.live/images/tools_img/PDF-X.png" width="60" height="60" alt="PDF-X"/>
+<br><strong>📄 PDF-X</strong>
+<br><sub>PDF Utilities</sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://prompt-engineer.lkml.live">
+<img src="https://lkml.live/images/tools_img/Promot-Engneer.png" width="60" height="60" alt="Prompt Engineer"/>
+<br><strong>⚡ Prompt Engineer</strong>
+<br><sub>AI Prompts</sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>s/profile_picture_2.0-512.webp" alt="Tharidu L. Rupasingha" width="200" height="200" style="border-radius: 50%; border: 3px solid #14b8a6;" />
 </div>
 
 <div align="center">
