@@ -16,18 +16,51 @@
 
 ## 🎯 Tech Arsenal
 
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #000000, #000f2b); padding: 20px; border-radius: 12px;">
 
-| **Backend** | **Frontend** | **Mobile** | **Database** | **DevOps** |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | | | |
+<table style="background: transparent; border: 1px solid #14b8a6; border-radius: 8px;">
+  <tr style="background: rgba(20, 184, 166, 0.1);">
+    <th style="color: #14b8a6; padding: 12px;">Backend</th>
+    <th style="color: #14b8a6; padding: 12px;">Frontend</th>
+    <th style="color: #14b8a6; padding: 12px;">Mobile</th>
+    <th style="color: #14b8a6; padding: 12px;">Database</th>
+    <th style="color: #14b8a6; padding: 12px;">DevOps</th>
+  </tr>
+  <tr style="background: rgba(0, 0, 0, 0.3);">
+    <td align="center" style="padding: 12px;">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</td>
+    <td align="center" style="padding: 12px;">![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)</td>
+  </tr>
+  <tr style="background: rgba(0, 15, 43, 0.5);">
+    <td align="center" style="padding: 12px;">![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=for-the-badge&logo=spring-boot&logoColor=6db33f)</td>
+    <td align="center" style="padding: 12px;">![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</td>
+    <td align="center" style="padding: 12px;">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</td>
+  </tr>
+  <tr style="background: rgba(0, 0, 0, 0.3);">
+    <td align="center" style="padding: 12px;">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)</td>
+    <td align="center" style="padding: 12px;"></td>
+    <td align="center" style="padding: 12px;">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)</td>
+    <td align="center" style="padding: 12px;">![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</td>
+  </tr>
+  <tr style="background: rgba(0, 15, 43, 0.5);">
+    <td align="center" style="padding: 12px;"></td>
+    <td align="center" style="padding: 12px;">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)</td>
+    <td align="center" style="padding: 12px;"></td>
+    <td align="center" style="padding: 12px;"></td>
+    <td align="center" style="padding: 12px;"></td>
+  </tr>
+</table>
 
 </div>
 
 ## 🚀 Current Focus
+
+<div style="background: linear-gradient(to right, #000000, #000f2b); border: 1px solid #14b8a6; border-radius: 12px; padding: 20px;">
 
 ```yaml
 learning:
@@ -46,6 +79,8 @@ exploring:
   - "GraphQL Federation"
   - "Edge Computing Solutions"
 ```
+
+</div>
 
 ## 📈 GitHub Analytics
 
@@ -78,34 +113,34 @@ exploring:
 
 ## 🛠️ Built & Deployed Tools
 
-<table align="center">
+<table align="center" style="background: linear-gradient(to right, #000000, #000f2b); border: none;">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="200" style="background: transparent; border: 1px solid #14b8a6; border-radius: 12px; padding: 20px; margin: 8px;">
       <a href="https://vinci.lkml.live">
-        <img src="https://lkml.live/public/images/tools_img/vinci-ai.png" width="50" height="50" alt="Vinci AI" /><br>
-        <strong>🤖 Vinci AI</strong><br>
-        <sub>AI Assistant</sub>
+        <img src="https://lkml.live/images/tools_img/vinci-ai.png" width="50" height="50" alt="Vinci AI" /><br>
+        <strong style="color: #14b8a6;">🤖 Vinci AI</strong><br>
+        <sub style="color: #9ca3af;">AI Assistant</sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" style="background: transparent; border: 1px solid #14b8a6; border-radius: 12px; padding: 20px; margin: 8px;">
       <a href="https://imgx.lkml.live">
-        <img src="https://lkml.live/public/images/tools_img/IMG-X.png" width="50" height="50" alt="IMG-X" /><br>
-        <strong>🖼️ IMG-X</strong><br>
-        <sub>Image Processor</sub>
+        <img src="https://lkml.live/images/tools_img/IMG-X.png" width="50" height="50" alt="IMG-X" /><br>
+        <strong style="color: #14b8a6;">🖼️ IMG-X</strong><br>
+        <sub style="color: #9ca3af;">Image Processor</sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" style="background: transparent; border: 1px solid #14b8a6; border-radius: 12px; padding: 20px; margin: 8px;">
       <a href="https://pdfx.lkml.live">
-        <img src="https://lkml.live/public/images/tools_img/PDF-X.png" width="50" height="50" alt="PDF-X" /><br>
-        <strong>📄 PDF-X</strong><br>
-        <sub>PDF Utilities</sub>
+        <img src="https://lkml.live/images/tools_img/PDF-X.png" width="50" height="50" alt="PDF-X" /><br>
+        <strong style="color: #14b8a6;">📄 PDF-X</strong><br>
+        <sub style="color: #9ca3af;">PDF Utilities</sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" style="background: transparent; border: 1px solid #14b8a6; border-radius: 12px; padding: 20px; margin: 8px;">
       <a href="https://prompt-engineer.lkml.live">
-        <img src="https://lkml.live/public/images/tools_img/Promot-Engneer.png" width="50" height="50" alt="Prompt Engineer" /><br>
-        <strong>⚡ Prompt Engineer</strong><br>
-        <sub>AI Prompts</sub>
+        <img src="https://lkml.live/images/tools_img/Promot-Engneer.png" width="50" height="50" alt="Prompt Engineer" /><br>
+        <strong style="color: #14b8a6;">⚡ Prompt Engineer</strong><br>
+        <sub style="color: #9ca3af;">AI Prompts</sub>
       </a>
     </td>
   </tr>
@@ -113,7 +148,7 @@ exploring:
 
 ## 🎯 Expertise Matrix
 
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #000000, #000f2b); border: 1px solid #14b8a6; border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ```
 Full Stack Development    ████████████████████  85%
