@@ -1,108 +1,54 @@
-<h1 align="center">Hi, I'm Tharidu 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer</b> · Full Stack Developer · Sri Lanka 🇱🇰<br/>
-  <i>Building digital solutions that make an impact.</i>
-</p>
+<img src="assets/header.svg" alt="Tharidu Lakmal Rupasingha, Software Engineer" width="100%"/>
 
-<p align="center">
-  <a href="https://tharidulakmal.com"><img src="https://img.shields.io/badge/Portfolio-0F6A91?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/tharidul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@tharidulakmal.com0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:tharidulakmal.info@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<a href="https://tharidulakmal.com/projects"><img src="assets/btn-explore.svg" alt="Explore Projects" height="44"/></a>
+<a href="https://github.com/tharidul"><img src="assets/btn-github.svg" alt="GitHub" height="44"/></a>
+<a href="https://www.linkedin.com/in/tharidul"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="https://www.youtube.com/@tharidulakmal.com0"><img src="assets/btn-youtube.svg" alt="YouTube" height="44"/></a>
+<a href="mailto:tharidulakmal.info@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"/></a>
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
+<a href="https://tharidulakmal.com"><img src="assets/about.svg" alt="About me: Building digital solutions that make an impact. Sri Lanka, Full Stack Software Engineer." width="100%"/></a>
 
-I build things people in Sri Lanka actually use: [Bodimak.lk](https://bodimak.lk/) for finding boarding rooms and [CraftOzen](https://craftozen.com) for independent sellers. I also write about whatever I'm figuring out: prompt engineering, Linux security, and OOP concepts without the textbook tone. Mostly, I like problems that have real users on the other end.
+<img src="assets/stack.svg" alt="Tech stack: Java, JavaScript, TypeScript, PHP, Next.js, Node.js, NestJS, Spring Boot, Tailwind CSS, Android, MongoDB, PostgreSQL, Linux, Git, Docker, Cloudflare" width="100%"/>
 
-- 💼 Full Stack Software Engineer at **Seekers Cloud (Pvt) Ltd** (2026 – Present)
-- 🎓 BSc (Hons) in Software Engineering (Top-up) at **Birmingham City University**
-- 🚀 3+ years of experience · 15+ projects built
-- ☁️ Focused on modern web applications, microservices, and cloud infrastructure
-- 🐧 Linux enthusiast and Arch user
-- ✍️ I write about engineering, Linux security, and AI on [my blog](https://tharidulakmal.com/blog/en)
+<img src="assets/experience.svg" alt="Experience: Full Stack Software Engineer at Seekers Cloud (2026 to present). Education: BSc (Hons) Software Engineering, Birmingham City University; UK Awards Level 5 and Level 4, Java Institute for Advanced Technology." width="100%"/>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<a href="https://tharidulakmal.com/projects"><img src="assets/h-projects.svg" alt="Featured Projects" width="100%"/></a>
 
-**Languages**
+<a href="https://bodimak.lk/"><img src="assets/p-bodimak.svg" alt="Bodimak.lk, Sri Lanka boarding marketplace" width="49%"/></a>
+<a href="https://craftozen.com"><img src="assets/p-craftozen.svg" alt="CraftOzen, handmade goods from independent makers" width="49%"/></a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<a href="https://www.akarshacoirbrush.com"><img src="assets/p-akarsha.svg" alt="Akarsha Coir Brush, natural and eco-friendly brushes" width="49%"/></a>
+<a href="https://pdfella.tharidulakmal.com/"><img src="assets/p-pdfella.svg" alt="PDFella, all your PDF tools in one place" width="49%"/></a>
 
-**Frameworks & Libraries**
+<sub>PDFella is open source: <a href="https://github.com/tharidul/pdfella.tharidulakmal.com">view the code on GitHub</a></sub>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<br/><br/>
 
-**Databases**
+<a href="https://tharidulakmal.com/blog/en"><img src="assets/h-writing.svg" alt="Latest Thoughts" width="100%"/></a>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<a href="https://tharidulakmal.com/blog/en/inside-jev-and-system-one-models-why-giving-up-text-generation-makes-ai-fast-and-type-safe"><img src="assets/post-1.svg" alt="Inside Jev and System One Models: Why Giving Up Text Generation Makes AI Fast and Type-Safe" width="100%"/></a>
 
-**Tools & Platforms**
+<a href="https://tharidulakmal.com/blog/en/aur-malware-attack-breakdown-prevention"><img src="assets/post-2.svg" alt="Arch Linux vs. The Wild West: How the Latest AUR Malware Attack Went Down" width="100%"/></a>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<a href="https://tharidulakmal.com/blog/en/what-is-a-good-prompt-for-ai"><img src="assets/post-3.svg" alt="The Anatomy of a High-Quality Prompt: An Engineering Approach to LLM Steering" width="100%"/></a>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<img src="assets/h-stats.svg" alt="GitHub, by the numbers" width="100%"/>
 
-| Project | Description |
-| --- | --- |
-| [**Bodimak.lk**](https://bodimak.lk/) | A Sri Lankan boarding accommodation platform that helps users discover verified boarding places, search by location and room type, and connect directly with property owners. |
-| [**CraftOzen**](https://craftozen.com) | A curated marketplace connecting shoppers with unique handmade, vintage, and creative products from independent artisans around the world. |
-| [**Akarsha Coir Brush**](https://www.akarshacoirbrush.com) | A modern, eco-friendly website showcasing natural fiber brushes, products, sustainability, and wholesale solutions. |
-| [**PDFella**](https://pdfella.tharidulakmal.com/) | A fast, client-side PDF utility suite that runs entirely in the browser. Files are processed locally using WebAssembly and HTML5 APIs, and nothing is uploaded to a server. ([Source](https://github.com/tharidul/pdfella.tharidulakmal.com)) |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&hide_border=true&bg_color=F5F5F7&title_color=0F6A91&text_color=1D1D1F&icon_color=0F6A91&ring_color=0F6A91&border_radius=24" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&hide_border=true&bg_color=F5F5F7&title_color=0F6A91&text_color=1D1D1F&border_radius=24" alt="Most used languages"/>
 
-👉 [View all projects](https://tharidulakmal.com/projects)
+<br/><br/>
 
----
+<a href="mailto:tharidulakmal.info@gmail.com"><img src="assets/connect.svg" alt="Let's build something people actually use. tharidulakmal.info@gmail.com" width="100%"/></a>
 
-## ✍️ Latest Thoughts
+<sub>© 2026 Tharidu Lakmal Rupasingha</sub>
 
-- 🤖 [Inside Jev and System One Models: Why Giving Up Text Generation Makes AI Fast and Type-Safe](https://tharidulakmal.com/blog/en/inside-jev-and-system-one-models-why-giving-up-text-generation-makes-ai-fast-and-type-safe) · *Sep 26, 2026*
-- 🐧 [Arch Linux vs. The Wild West: How the Latest AUR Malware Attack Went Down](https://tharidulakmal.com/blog/en/aur-malware-attack-breakdown-prevention) · *Sep 13, 2026*
-- 🧠 [The Anatomy of a High-Quality Prompt: An Engineering Approach to LLM Steering](https://tharidulakmal.com/blog/en/what-is-a-good-prompt-for-ai) · *Sep 13, 2026*
-
-📚 [Read all articles →](https://tharidulakmal.com/blog/en)
-
----
-
-## 🎓 Education
-
-- **BSc (Hons) in Software Engineering (Top-up)**, Birmingham City University (2025 – 2026)
-- **UK Awards Level 5 Higher Diploma in Software Engineering**, Java Institute for Advanced Technology (2024 – 2025)
-- **UK Awards Level 4 Diploma in Software Engineering**, Java Institute for Advanced Technology (2023 – 2024)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tharidul&show_icons=true&theme=transparent&hide_border=true&title_color=0F6A91&icon_color=0F6A91" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharidul&layout=compact&theme=transparent&hide_border=true&title_color=0F6A91" alt="Top languages"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-I'm always open to interesting projects and conversations. Reach me at **tharidulakmal.info@gmail.com** or through any of the links above.
-
-<p align="center">
-  <i>Thanks for stopping by! ⭐</i>
-</p>
+</div>
